@@ -1,0 +1,396 @@
+{
+  "main": {
+    "id": "56eb7d47f31686e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "319ad7a0516555f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59ea4434fb5997de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Execution insights.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Execution insights"
+            }
+          },
+          {
+            "id": "e7e2749ad6cc8cbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Execution insights.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Execution insights"
+            }
+          },
+          {
+            "id": "f05488fed6e42e00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MongoDB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MongoDB"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "276c081ad66c23a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "92c226f029e7870d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed6661fe103edd81",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dff5a3d8a833063a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "lifecycle",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e05c4154a7c0527e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b6e1abf680f4b2cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "46559fd236aed3f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa9a5da37a661c62",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Orchestration/k8engineers.com/Kubernetes-Deep-Dive/HANDWRITTEN/section12-k8sServices/00.Section11-K8sServices.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 00.Section11-K8sServices"
+            }
+          },
+          {
+            "id": "928ec57bccf1cf02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Orchestration/k8engineers.com/Kubernetes-Deep-Dive/HANDWRITTEN/section12-k8sServices/00.Section11-K8sServices.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 00.Section11-K8sServices"
+            }
+          },
+          {
+            "id": "cfd4648f055dd4d0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9c029f0568102425",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Orchestration/k8engineers.com/Kubernetes-Deep-Dive/HANDWRITTEN/section12-k8sServices/00.Section11-K8sServices.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 00.Section11-K8sServices"
+            }
+          },
+          {
+            "id": "2fda788e74c9ac9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6caa347ab0a2a676",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Orchestration/k8engineers.com/Kubernetes-Deep-Dive/HANDWRITTEN/section13-k8sStorage(Volumes)/00.Section13-K8sStorage(Volumes).md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 00.Section13-K8sStorage(Volumes)"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "dd645854a54e3a66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdc25d27eb583721",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bb675239fa53619b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bb341699b9610da",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4269afaf08215d21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f45c2bca3cca2d3",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d6cd17861d0cc230",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f96b88f7daef623d",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7a3b9e849c00da97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c3fd879182da617",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ea51b6d0672965f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fad050ab0ac7355",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      },
+      {
+        "id": "dfdf3e4545f15320",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b6c5ef3572e254a",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Map of Content"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": true,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "map-of-content:Update Map of Content": false
+    }
+  },
+  "active": "f05488fed6e42e00",
+  "lastOpenFiles": [
+    "Execution insights.md",
+    "MongoDB.md",
+    "python-selfninja/Pythonfghd.md",
+    "FullStack/Overview.md",
+    "JS Advance topics/Advance Concepts.md",
+    "Git and githu.md",
+    "python-selfninja/CLI app on linux.md",
+    "Pasted image 20250724111843.png",
+    "JS Advance topics",
+    "Pasted image 20250723144126.png",
+    "Pasted image 20250723143602.png",
+    "python-selfninja",
+    "FullStack",
+    "obsidian/guide.md",
+    "python-selfninja/Pasted image 20250721122941.png",
+    "python-selfninja/Pasted image 20250721122318.png",
+    "python-selfninja/Pasted image 20250721121059.png",
+    "obsidian",
+    "github.com/rithishsamm.md",
+    "github.com",
+    "githu.com/rithishsamm.md",
+    "githu.com",
+    "Orchestration/k8engineers.com/Kubernetes-Deep-Dive/HANDWRITTEN/section13-k8sStorage(Volumes)/00.Section13-K8sStorage(Volumes).md",
+    "Orchestration/k8engineers.com/Kubernetes-Deep-Dive/HANDWRITTEN/section14-k8sStorage(PV & PVC)/00.Section14-K8sStorage(PV, PVC).md",
+    "Orchestration/k8engineers.com/Kubernetes-Deep-Dive/HANDWRITTEN/section14-k8sStorage(PV & PVC)/0.Index.md",
+    "Orchestration/k8engineers.com/Kubernetes-Deep-Dive/HANDWRITTEN/section14-k8sStorage(PV & PVC)/1.Introduction to Persistent Storage.md",
+    "Orchestration/k8engineers.com/Kubernetes-Deep-Dive/HANDWRITTEN/section14-k8sStorage(PV & PVC)/7.Introduction to AccessModes for PV and PVC.md",
+    "Orchestration/k8engineers.com/Kubernetes-Deep-Dive/HANDWRITTEN/section14-k8sStorage(PV & PVC)/5.Static PV and PVC (volume plugin; nfs).md",
+    "Orchestration/k8engineers.com/Kubernetes-Deep-Dive/HANDWRITTEN/section14-k8sStorage(PV & PVC)/3.Static PV and PVC (volume plugin; hostPath).md",
+    "Orchestration/k8engineers.com/Kubernetes-Deep-Dive/HANDWRITTEN/section14-k8sStorage(PV & PVC)/2.Understanding Persistent Volume Access Modes.md",
+    "Orchestration/k8engineers.com/Kubernetes-Deep-Dive/HANDWRITTEN/section2-k8sClusterSetup/00. section2-full-k8sClusterSetup.md",
+    "Systems/ssh/easy ssh-keygen and copy.md",
+    "Orchestration/k8engineers.com/Kubernetes-Deep-Dive/HANDWRITTEN/section13-k8sStorage(Volumes)/9.Setup NFS server for Kubernetes Volume Demo.md",
+    "Security/DevSecOps Practice.md",
+    "Automation/Ansible/Ansible - Quick Note.md",
+    "Automation/Ansible",
+    "Systems/ssh/archive/SSH Crash Course with Some DevOps.md",
+    "Systems/ssh/archive",
+    "What is personal branding for DevOps professionals How do you build it, and why is it important for your career.md",
+    "Attapadi itinerary.md",
+    "moss.jpeg",
+    "moss 1.jpeg",
+    "Pasted image 20250527103556.png",
+    "Pasted image 20250527103445.png",
+    "Orchestration/talos",
+    "catzbak-website-quote.pdf"
+  ]
+}

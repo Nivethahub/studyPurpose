@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "319ad7a0516555f5",
+        "id": "faa76036d35dcec9",
         "type": "tabs",
         "children": [
           {
-            "id": "59ea4434fb5997de",
+            "id": "7491c148de951671",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Execution insights.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Execution insights"
-            }
-          },
-          {
-            "id": "e7e2749ad6cc8cbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Execution insights.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Execution insights"
-            }
-          },
-          {
-            "id": "f05488fed6e42e00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MongoDB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MongoDB"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b6e1abf680f4b2cf",
@@ -329,6 +295,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -344,53 +311,52 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "f05488fed6e42e00",
+  "active": "ed6661fe103edd81",
   "lastOpenFiles": [
-    "Execution insights.md",
+    "Untitled.base",
     "MongoDB.md",
-    "python-selfninja/Pythonfghd.md",
-    "FullStack/Overview.md",
-    "JS Advance topics/Advance Concepts.md",
-    "Git and githu.md",
-    "python-selfninja/CLI app on linux.md",
-    "Pasted image 20250724111843.png",
-    "JS Advance topics",
-    "Pasted image 20250723144126.png",
     "Pasted image 20250723143602.png",
-    "python-selfninja",
-    "FullStack",
+    "Pasted image 20250723144126.png",
+    "Pasted image 20250724111843.png",
+    "Pasted image 20251218150424.png",
+    "Untitled 1.base",
+    "SQL/GFG - SQL.md",
+    "SQL/SCALER - Sql course.md",
+    "SQL/Sql course.md",
+    "Untitled.md",
+    "HTML/HTML concepts.md",
+    "SQL",
+    "CSS/CSS Concepts.md",
+    "JS/JS.md",
+    "FunctionalityApplied/Mongoose functionality.md",
+    "TS config/ts config.md",
+    "FunctionalityApplied",
     "obsidian/guide.md",
-    "python-selfninja/Pasted image 20250721122941.png",
-    "python-selfninja/Pasted image 20250721122318.png",
+    "python-selfninja/CLI app on linux.md",
+    "Untitled 1.md",
+    "TS config/Fdf.md",
+    "React/React.md",
     "python-selfninja/Pasted image 20250721121059.png",
-    "obsidian",
+    "python-selfninja/Pasted image 20250721122318.png",
+    "python-selfninja/Pasted image 20250721122941.png",
+    "TS config",
+    "JS Advance topics/Advance Concepts.md",
+    "React",
+    "JS",
+    "CSS",
+    "HTML",
+    "FullStack/Overview.md",
+    "Execution insights.md",
+    "python-selfninja/Pythonfghd.md",
+    "Git and githu.md",
+    "JS Advance topics",
     "github.com/rithishsamm.md",
-    "github.com",
     "githu.com/rithishsamm.md",
-    "githu.com",
     "Orchestration/k8engineers.com/Kubernetes-Deep-Dive/HANDWRITTEN/section13-k8sStorage(Volumes)/00.Section13-K8sStorage(Volumes).md",
     "Orchestration/k8engineers.com/Kubernetes-Deep-Dive/HANDWRITTEN/section14-k8sStorage(PV & PVC)/00.Section14-K8sStorage(PV, PVC).md",
     "Orchestration/k8engineers.com/Kubernetes-Deep-Dive/HANDWRITTEN/section14-k8sStorage(PV & PVC)/0.Index.md",
-    "Orchestration/k8engineers.com/Kubernetes-Deep-Dive/HANDWRITTEN/section14-k8sStorage(PV & PVC)/1.Introduction to Persistent Storage.md",
-    "Orchestration/k8engineers.com/Kubernetes-Deep-Dive/HANDWRITTEN/section14-k8sStorage(PV & PVC)/7.Introduction to AccessModes for PV and PVC.md",
-    "Orchestration/k8engineers.com/Kubernetes-Deep-Dive/HANDWRITTEN/section14-k8sStorage(PV & PVC)/5.Static PV and PVC (volume plugin; nfs).md",
-    "Orchestration/k8engineers.com/Kubernetes-Deep-Dive/HANDWRITTEN/section14-k8sStorage(PV & PVC)/3.Static PV and PVC (volume plugin; hostPath).md",
-    "Orchestration/k8engineers.com/Kubernetes-Deep-Dive/HANDWRITTEN/section14-k8sStorage(PV & PVC)/2.Understanding Persistent Volume Access Modes.md",
-    "Orchestration/k8engineers.com/Kubernetes-Deep-Dive/HANDWRITTEN/section2-k8sClusterSetup/00. section2-full-k8sClusterSetup.md",
-    "Systems/ssh/easy ssh-keygen and copy.md",
-    "Orchestration/k8engineers.com/Kubernetes-Deep-Dive/HANDWRITTEN/section13-k8sStorage(Volumes)/9.Setup NFS server for Kubernetes Volume Demo.md",
-    "Security/DevSecOps Practice.md",
-    "Automation/Ansible/Ansible - Quick Note.md",
-    "Automation/Ansible",
-    "Systems/ssh/archive/SSH Crash Course with Some DevOps.md",
-    "Systems/ssh/archive",
-    "What is personal branding for DevOps professionals How do you build it, and why is it important for your career.md",
-    "Attapadi itinerary.md",
     "moss.jpeg",
     "moss 1.jpeg",
-    "Pasted image 20250527103556.png",
-    "Pasted image 20250527103445.png",
-    "Orchestration/talos",
-    "catzbak-website-quote.pdf"
+    "Pasted image 20250527103556.png"
   ]
 }

@@ -1,0 +1,11 @@
+Essential concepts:
+- Data types & variables (`let`, `const`, `var`)- Functions (declaration, expression, arrow)
+- Array & object methods (`map`, `filter`, `reduce`)
+- DOM manipulation (`querySelector`, `addEventListener`)
+- Event bubbling & delegation
+- ES6+ features (destructuring, spread/rest, template literals)
+- Promises, async/await
+- Error handling (`try/catch`)
+- Closures, hoisting, scope
+- Modules (`import`, `export`)
+- LocalStorage, sessionStorage

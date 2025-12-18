@@ -1,0 +1,14 @@
+Essential concepts:
+- JSX syntax- Components (functional & class)
+- Props & State
+- useEffect, useState hooks
+- Conditional rendering
+- List rendering with keys
+- Forms & controlled components
+- Lifting state up
+- Component lifecycle (class-based)
+- Routing with React Router
+- Context API & useContext
+- Custom hooks
+- Error boundaries
+- Performance optimization (memo, lazy loading)
